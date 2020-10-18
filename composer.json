@@ -10,7 +10,7 @@
             "homepage": "https://www.github.com",
             "role": "Developer"
         }
-    ]
+    ],
     "require": {
         "wow/libdatabroker": "*"
     }
