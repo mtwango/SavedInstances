@@ -1,0 +1,17 @@
+{
+    "name": "wow/savedinstances",
+    "description": "xxxx",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "a",
+            "email": "test@test.test",
+            "homepage": "https://www.github.com",
+            "role": "Developer"
+        }
+    ]
+    "require": {
+        "wow/libdatabroker": "*"
+    }
+}
