@@ -1,7 +1,7 @@
 {
     "name": "wow/savedinstances",
     "description": "xxxx",
-    "type": "project",
+    "type": "wow-addon",
     "license": "proprietary",
     "authors": [
         {
